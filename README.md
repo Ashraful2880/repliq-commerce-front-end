@@ -1,4 +1,9 @@
-# 🛒 Repliq Commerce - E-commerce Platform
+## 🕰️ Project History
+
+- 🔹 Originally developed in: **2023**
+- 🔹 Last updated/refactored in: **2025** (backend improvements and minor changes)
+
+# 🛒 Repliq Commerce - Small E-commerce Platform
 
 A modern, full-featured e-commerce platform built with React.js, offering a comprehensive shopping experience with an advanced admin dashboard for complete store management.
 
