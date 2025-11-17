@@ -6,7 +6,6 @@
 
 # 🛒 Repliq Commerce - Small E-commerce Platform
 
->>>>>>> dbba95263aa7abeca6443f910257ef30042eb378
 A modern, full-featured e-commerce platform built with React.js, offering a comprehensive shopping experience with an advanced admin dashboard for complete store management.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://repliq-commerce.netlify.app/)
